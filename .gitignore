@@ -1,0 +1,8 @@
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+hero-section/
+*.zip
+login_body.json
